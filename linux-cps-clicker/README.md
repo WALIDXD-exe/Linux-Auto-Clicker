@@ -1,3 +1,4 @@
+```
 ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
 ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
 ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝
@@ -12,7 +13,7 @@
 ╚██████╗███████╗██║╚██████╗██║  ██╗
  ╚═════╝╚══════╝╚═╝ ╚═════╝╚═╝  ╚═╝
         CPS Clicker pour Linux
-
+```
  
 Un auto-clicker simple pour **Linux**, qui s'utilise dans le terminal.
 Il marche sur **Wayland** et sur **X11** (testé sur Ubuntu).
